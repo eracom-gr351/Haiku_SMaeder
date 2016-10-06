@@ -2,13 +2,14 @@ body {
 	background-color: #F5F5F5;
 	cursor: crosshair;
 	font-family: 'Black Ops One', cursive;
+	
+	
 }
 	
 
 #p1 {
 	font-size: 50px;
 	text-align: center;
-	background-color: #;
 	padding: 0px;
 	margin-bottom: 50px;
 	text-decoration: ;color: transparent;
@@ -18,7 +19,6 @@ body {
 #p2 {
 	font-size: 80px;
 	text-align: center;
-	background-color: #;
 	padding: 0px;
 	margin-bottom: 50px;
 	text-decoration: ;color: transparent;
@@ -28,11 +28,11 @@ body {
 #p3 {
 	font-size: 110px;
 	text-align: center;
-	background-color: #;
 	padding: 0px;
 	margin-bottom: 50px;
 	text-decoration: ;color: transparent;
    	text-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
 	
 
 
